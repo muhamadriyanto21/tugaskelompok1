@@ -1,0 +1,26 @@
+:root {
+  --text-white: #fff; }
+
+body {
+  height: 2000px;
+  width: 100%; }
+
+section.header .video-front {
+  position: relative; }
+  .nav-link {
+    color: #fff;
+    font-weight: 700;
+}
+.icon ul li a {
+    font-size: 25px;
+    text-decoration: none;
+}
+.icon ul li a p {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* marzuq */
+
+
+/*# sourceMappingURL=beranda.css.map */

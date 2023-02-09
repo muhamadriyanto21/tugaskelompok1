@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,KAAK;EACD,YAAY,CAAC,KAAK;;AAEtB,IAAK;EACD,MAAM,EAAE,MAAM;EACd,KAAK,EAAE,IAAI;;AAIX,2BAAa;EACT,QAAQ,EAAE,QAAQ",
+"sources": ["beranda.scss"],
+"names": [],
+"file": "beranda.css"
+}
